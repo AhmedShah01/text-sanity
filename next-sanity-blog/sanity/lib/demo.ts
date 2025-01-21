@@ -39,7 +39,7 @@ export const description = [
     //     marks: [],
     //     text: ".",
     //   },
-    ],
+    // ],
     // markDefs: [
     //   {
     //     _key: "ec5b66c9b1e0",
